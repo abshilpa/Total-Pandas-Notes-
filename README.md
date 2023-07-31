@@ -5,7 +5,7 @@ Total Topics! 🎉📚 If you're passionate about data analysis and Python progr
 
 📖 Here's what you can expect to explore in Pandas Total Topics:
 
-   1 .Series: Master the foundational building block of pandas - the Series data structure. Learn how to create, manipulate, and analyze one-dimensional labeled   arrays efficiently. 📝💡🔢
+   1 .Series: Master the foundational building block of pandas - the Series data structure. Learn how to create, manipulate, and analyze one-dimensional labeled   arrays efficiently. 💡🔢
 
 2. DataFrame: Dive into the heart of pandas with the DataFrame, a powerful two-dimensional data structure. Discover how to work with tabular data, perform indexing, filtering, and aggregations, and handle missing values. 📝💡📊
 
