@@ -7,7 +7,7 @@ Total Topics! 🎉📚 If you're passionate about data analysis and Python progr
 
    1 .Series: Master the foundational building block of pandas - the Series data structure. Learn how to create, manipulate, and analyze one-dimensional labeled   arrays efficiently. 💡🔢
 
-2. DataFrame: Dive into the heart of pandas with the DataFrame, a powerful two-dimensional data structure. Discover how to work with tabular data, perform indexing, filtering, and aggregations, and handle missing values. 📝💡📊
+2. DataFrame: Dive into the heart of pandas with the DataFrame, a powerful two-dimensional data structure. Discover how to work with tabular data, perform indexing, filtering, and aggregations, and handle missing values. 📝 📊
 
 3. Vectorized Strings: Unleash the power of vectorized string operations in pandas. Explore methods to efficiently handle and manipulate text data within your DataFrame, such as string slicing, concatenation, and pattern matching. 📝💡🔡
 
